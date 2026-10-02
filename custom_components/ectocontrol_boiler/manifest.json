@@ -1,0 +1,13 @@
+{
+  "domain": "ectocontrol_boiler",
+  "name": "Эктоконтроль программы",
+  "version": "0.3.0",
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "codeowners": [
+    "@romanov197106"
+  ],
+  "documentation": "https://github.com/romanov197106/ectocontrol-home-assistant",
+  "issue_tracker": "https://github.com/romanov197106/ectocontrol-home-assistant/issues"
+}
